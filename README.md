@@ -160,14 +160,14 @@ Bulk PDF resume parser with **queue-based architecture** for concurrent processi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AniketVishwakarma7575&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AniketVishwakarma7575&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketVishwakarma7575&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketVishwakarma7575&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketVishwakarma7575&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=AniketVishwakarma7575&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
 </div>
 
 ---

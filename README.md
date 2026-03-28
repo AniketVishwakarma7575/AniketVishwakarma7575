@@ -160,14 +160,14 @@ Bulk PDF resume parser with **queue-based architecture** for concurrent processi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AniketVishwakarma7575&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=a78bfa&text_color=ffffff&ring_color=6e40c9" height="160" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AniketVishwakarma7575&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketVishwakarma7575&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=ffffff" height="160" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketVishwakarma7575&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketVishwakarma7575&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888" alt="GitHub Streak" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketVishwakarma7575&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
 </div>
 
 ---

@@ -4,13 +4,17 @@
 
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+1%2B+Year+Experience;Node.js+%7C+Express.js+%7C+REST+APIs;AI+Integration+%7C+OCR+%7C+Document+Processing;Building+Scalable+Production+Systems+%E2%9A%A1" alt="Typing SVG" />
+</div>
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=AniketVishwakarma7575&color=6e40c9&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ## 🚀 About Me
 
@@ -46,34 +50,17 @@ const aniket = {
 
 <div align="center">
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Languages & Core
+<img src="https://skillicons.dev/icons?i=js,python,html,css&theme=dark" />
 
 ### ⚙️ Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://skillicons.dev/icons?i=nodejs,express,react&theme=dark" />
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🤖 AI & APIs
-![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
 
 ### 🛠️ Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,git,github,firebase,vscode,postman&theme=dark" />
 
 </div>
 
@@ -87,14 +74,14 @@ const aniket = {
 <td width="50%" valign="top">
 
 ### 🔍 AI-Powered OCR Construction Processor
-> **Duration:** 3 Months | **Role:** Backend Developer
+> **Duration:** 3 Months &nbsp;|&nbsp; **Role:** Backend Developer
 
-Digitizes handwritten construction measurement forms and multi-page PDFs into structured JSON using **Gemini AI** + OCR.
+Digitizes handwritten construction forms and multi-page PDFs into structured JSON using **Gemini AI** + OCR.
 
 **Highlights:**
-- 🤖 Gemini AI integration for handwritten text extraction
+- 🤖 Gemini AI for handwritten text extraction
 - 📄 Multi-page PDF → Structured JSON pipeline
-- 🔐 Auth, validation & high-volume performance optimization
+- 🔐 Auth, validation & performance optimization
 - 🏗️ REST API architecture for document processing
 
 `Node.js` `Gemini AI` `OCR` `REST API` `MongoDB`
@@ -103,7 +90,7 @@ Digitizes handwritten construction measurement forms and multi-page PDFs into st
 <td width="50%" valign="top">
 
 ### 🎯 InterviewPrep Portal
-> **Duration:** 2 Months | **Role:** Backend Developer
+> **Duration:** 2 Months &nbsp;|&nbsp; **Role:** Backend Developer
 
 Role-based interview knowledge & scheduling platform with **AI-generated answers** and CRUD operations.
 
@@ -111,7 +98,7 @@ Role-based interview knowledge & scheduling platform with **AI-generated answers
 - 👥 RBAC with admin-controlled user management
 - 🤖 AI answer generation via OpenRouter
 - 📚 Interview knowledge resource management
-- 🔒 Secure authentication system
+- 🔒 Secure JWT authentication system
 
 `Node.js` `Express.js` `OpenRouter AI` `RBAC` `JWT`
 
@@ -121,7 +108,7 @@ Role-based interview knowledge & scheduling platform with **AI-generated answers
 <td width="50%" valign="top">
 
 ### 📋 Enterprise Attendance & Leave Management
-> **Duration:** 2 Months | **Role:** Backend Developer
+> **Duration:** 2 Months &nbsp;|&nbsp; **Role:** Backend Developer
 
 Full-featured attendance system with **geo-fencing**, Google OAuth, and automated workflows.
 
@@ -129,7 +116,7 @@ Full-featured attendance system with **geo-fencing**, Google OAuth, and automate
 - 📍 Geo-fenced attendance tracking
 - 🔐 Google OAuth + JWT authentication
 - 🗂️ Leave approval hierarchy workflows
-- 📊 Admin reporting dashboards
+- 📊 Admin-level reporting dashboards
 
 `Node.js` `Google OAuth` `JWT` `PostgreSQL` `Docker`
 
@@ -137,9 +124,9 @@ Full-featured attendance system with **geo-fencing**, Google OAuth, and automate
 <td width="50%" valign="top">
 
 ### 📄 AI Resume Processing Platform
-> **Duration:** 1 Month | **Role:** Backend Developer
+> **Duration:** 1 Month &nbsp;|&nbsp; **Role:** Backend Developer
 
-Bulk PDF resume parser with **queue-based architecture** for concurrent processing and structured data extraction.
+Bulk PDF resume parser with **queue-based architecture** for concurrent processing and structured extraction.
 
 **Highlights:**
 - 📦 Batch processing with real-time progress tracking
@@ -160,9 +147,9 @@ Bulk PDF resume parser with **queue-based architecture** for concurrent processi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AniketVishwakarma7575&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketVishwakarma7575&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AniketVishwakarma7575&theme=tokyonight" height="160" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AniketVishwakarma7575&theme=tokyonight" height="160" alt="Top Languages"/>
 
 </div>
 
@@ -170,12 +157,21 @@ Bulk PDF resume parser with **queue-based architecture** for concurrent processi
   <img src="https://streak-stats.demolab.com/?user=AniketVishwakarma7575&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AniketVishwakarma7575&theme=tokyonight" width="100%" alt="Profile Details"/>
+</div>
+
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AniketVishwakarma7575&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
+
+![Experience](https://img.shields.io/badge/Experience-1%2B%20Year-6e40c9?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Projects](https://img.shields.io/badge/Enterprise%20Projects-4%20Delivered-a78bfa?style=for-the-badge&logo=checkmarx&logoColor=white)
+![AI Projects](https://img.shields.io/badge/AI%20Integrations-3%20Systems-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![APIs](https://img.shields.io/badge/REST%20APIs-Production%20Grade-4ea94b?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
 ---
@@ -183,7 +179,7 @@ Bulk PDF resume parser with **queue-based architecture** for concurrent processi
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AniketVishwakarma7575&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6e40c9&point=ffffff" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AniketVishwakarma7575&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -199,8 +195,6 @@ Bulk PDF resume parser with **queue-based architecture** for concurrent processi
 </div>
 
 ---
-
-## ✍️ Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
